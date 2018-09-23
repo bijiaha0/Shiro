@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AuthorizationPermission" />
+        <module name="BasicIdentification" />
+        <module name="cacheShiro" />
+        <module name="ControllerSsmShiro" />
+        <module name="encodeShiro" />
+        <module name="FixedInformationAuthentication" />
+        <module name="FixedRoleAuthorization" />
+        <module name="loginMysqlShiro" />
+        <module name="loginShiro" />
+        <module name="MysqlAuthentication" />
+        <module name="mysqlAuthenticationShiro" />
+        <module name="rememberMeShiro" />
+        <module name="serviceSsmShiro" />
+        <module name="sessionManagerShiro" />
+        <module name="ssmInnerLoginShiro" />
+        <module name="ssmShiro" />
+        <module name="webShiro" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="FixedRoleAuthenrization" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuthorizationPermission" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BasicIdentification" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ControllerSsmShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FixedInformationAuthentication" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FixedRoleAuthorization" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MysqlAuthentication" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cacheShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encodeShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loginMysqlShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loginShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mysqlAuthenticationShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rememberMeShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceSsmShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sessionManagerShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssmInnerLoginShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssmShiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webShiro" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

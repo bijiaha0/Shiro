@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration   
+    PUBLIC "-//mybatis.org//DTD Config 3.0//EN"   
+    "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<!-- 进行Mybatis的相应的环境的属性定义 -->
+	<settings>	<!-- 在本项目之中开启二级缓存 -->
+		<setting name="cacheEnabled" value="true"/>
+	</settings>
+	<typeAliases>
+ 		<package name="cn.mldn.vo"/>
+		<!--修改别名的设计，这样该包中的所有的VO类都可以自动以类名称(首字母大写)的模式来设置别名-->
+	</typeAliases>
+</configuration>
